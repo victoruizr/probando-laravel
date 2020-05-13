@@ -1,0 +1,1 @@
+<h1>Pagina de contacto {{$nombre}} tiene {{$edad}}</h1>
